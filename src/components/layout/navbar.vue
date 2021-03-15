@@ -39,6 +39,9 @@ export default {
   .navbar-logo {
     width: 50px;
     height: 30px;
+    @include mobile{
+      display: none;
+    }
   }
 
   .menu {
