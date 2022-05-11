@@ -1,4 +1,4 @@
-# inheri_next_official
+# Vue practice project 01
 
 ## Project setup
 ```
